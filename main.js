@@ -1,3 +1,4 @@
+window.onload
 var a=document.getElementsByClassName('radio radio-xs');
 var ok=0
 for(var i=0;i<a.length;i++)
